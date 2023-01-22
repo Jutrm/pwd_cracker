@@ -5,5 +5,4 @@ Its help cracker the linux user's password include "root"
 
 Comment:
 * python pwdcracker
-<br>
 <h3><a href="https://www.instagram.com/jutrmraja/">Instagram</a></h3>
