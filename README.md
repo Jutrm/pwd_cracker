@@ -7,4 +7,4 @@ Comment:
 * python pwdcracker
 
 <h2>Follow on:</h2>
-<h3><a href="https://www.instagram.com/jutrmraja/">&nbsp;Instagram</a></h3>
+<h3><a href="https://www.instagram.com/jutrmraja/">Instagram</a></h3>
