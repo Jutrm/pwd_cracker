@@ -6,7 +6,7 @@ Its help to crack the linux user's password include "root"
 Comment:
 * python pwdcracker
 
-video: https://youtu.be/fmmFyhu7bDk:
+video: https://youtu.be/fmmFyhu7bDk
 
 
 <h2>Follow on:</h2>
